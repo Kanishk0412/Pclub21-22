@@ -1,3 +1,3 @@
-# Pclub21-22
+# Pclub20-21
 
-The repository contains record of all the session conducted by pclub uiet in the year 2021-22.
+The repository contains record of all the session conducted by Programming Club of UIET in the year 2020-21.
