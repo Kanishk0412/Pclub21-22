@@ -48,3 +48,13 @@ The aim of SFD is to bring together developers and students of all levels on a s
 
 
 
+<br>
+<hr>
+
+## **International Guest**
+
+[![Numpy & Pandas Session](https://user-images.githubusercontent.com/75319323/137255700-8c973702-b859-4f21-baa7-cf4a04233790.png)](https://youtu.be/ANIN5Sg6jUQ)
+
+
+[![Introduction to NLP](https://user-images.githubusercontent.com/75319323/137255893-2e7aa590-b0fe-4303-8fab-e0ef95bb99c6.jpg)](https://youtu.be/ZssCzjXXtiI)
+
